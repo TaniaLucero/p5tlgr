@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p5tlgr</string>
+    <string name="homero">homero</string>
+    <string name="pantallatableta">Estamos en una tableta</string>
+    <string name="bpresiona">Pulsa aqui</string>
+    <string name="pantallacell">Estas en un Celular</string>
+</resources>
